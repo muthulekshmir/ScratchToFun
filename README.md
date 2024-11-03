@@ -1,1 +1,1 @@
-# ScratchTheFun
+# ScratchToFun
